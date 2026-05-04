@@ -5,7 +5,9 @@ const driveUrl =
 const birthdayMessages = [
   "Coucouuu et joyeux anniversaire :)",
   "J'espère que tu as passé une belle journée !!",
-  "Je te glisse le lien vers mon Drive où il y a une partie des photos de famille, pour que tu ne nous oublies pas hehe.",
+  "Chris: Félicitations Alicia ! Tu viens officiellement de terminer ta période d'essai de la vie d'adulte. Les genoux qui craquent et le coucher à 22h, c'est par ici ..., 😂😂 non, je plaisante ! Tu n'as jamais été aussi rayonnante. Bon anniversaire pour tes 18 ans ( avec 12 ans d'expérience)! Ps: Tu as une chanson pour ton anniversaire dans le drive !",
+  "Papa: Joyeux à ma petite fille qui est devenue cette jeune femme de 30 ans ! Te voir faire des choix pas toujours faciles pour rester fidèle à tes ambitions me bouleverse. Tu accomplis aujourd'hui des choses dont je rêve encore à plus de 60 ans. C’est la plus grande fierté d’un père de voir ses enfants repousser les limites que notre histoire aurait pu leur imposer. Ne t'arrête jamais de rêver grand et de foncer, je t’aime ! Bisousssssssssssssss",
+  "Teddy:Je te glisse le lien vers mon Drive où il y a une partie des photos de famille, pour que tu ne nous oublies pas hehe.",
   "Bref, joyeux anniversaire soeurette, je t'aime.",
   "Ah et en plus tu vas avoir une session sympa de wellness de la part de tout le monde.",
   "On te fait tous de gros bisous et n'oublie pas de regarder les vidéos.",
