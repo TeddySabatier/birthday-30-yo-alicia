@@ -159,6 +159,7 @@ h1 {
   margin: 0;
   font-size: 1.03rem;
   line-height: 1.45;
+  white-space: pre-line;
 }
 
 .message-toggle {
